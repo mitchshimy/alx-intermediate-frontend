@@ -1,0 +1,14 @@
+# Step 1: Install Node.js (includes npm)
+# Download from: https://nodejs.org/
+# Run the installer and follow setup instructions
+
+# Step 2: Verify Node.js and npm installation
+node -v
+npm -v
+
+# Step 3: Install SASS globally using npm
+npm install -g sass
+
+
+# Step 4: Verify SASS installation
+sass --version
